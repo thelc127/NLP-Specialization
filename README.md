@@ -21,6 +21,11 @@ Week 4: Word Embeddings and Locality Sensitive Hashing for Machine Translation
 
     Write a simple English-to-French translation algorithm using pre-computed word embeddings and locality sensitive hashing to relate words via approximate k-nearest neighbors search
 
+
+
+
+
+
 Course 2: Probabilistic Models in NLP
 
 This is the second course of the Natural Language Processing Specialization.
@@ -40,6 +45,11 @@ Week 3: N-gram Language Models
 Week 4: Word2Vec and Stochastic Gradient Descent
 
     Write your own Word2Vec model that uses a neural network to compute word embeddings using a continuous bag-of-words model
+    
+    
+    
+    
+    
 
 Course 3: Sequence Models in NLP
 
@@ -60,6 +70,12 @@ Week 3: Named Entity Recognition (NER)
 Week 4: Siamese Networks
 
     Use so-called ‘Siamese’ LSTM models to compare questions in a corpus and identify those that are worded differently but have the same meaning
+    
+    
+    
+    
+    
+    
 
 Course 4: Attention Models in NLP
 

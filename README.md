@@ -14,7 +14,7 @@
 Enjoy!
 
 
-Course 1: Classification and Vector Spaces in NLP
+Course 1: Classification and Vector Spaces in N L P
 
 This is the first course of the Natural Language Processing Specialization.
 

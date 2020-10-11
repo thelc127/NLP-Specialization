@@ -1,4 +1,4 @@
-# NLP-Specialization by Deep Learning.ai 
+# NLP-Specialization by DeepLearning.ai 
 
 ## Topics Covered
 

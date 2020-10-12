@@ -1,6 +1,6 @@
 # NLP-Specialization by DeepLearning.ai 
 
-## Topics Covered
+## Topics that are Covered
 
 *This Specialization will equip you with the state-of-the-art deep learning techniques needed to build cutting-edge NLP systems:*
 
